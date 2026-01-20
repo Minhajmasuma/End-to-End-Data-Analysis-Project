@@ -23,7 +23,14 @@ The project demonstrates the complete analytics workflow:
 ## 📂 Dataset
 
 * Brazilian E-Commerce Public Dataset by Olist
-* Multiple related tables such as:
+[Click here](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
+---
+
+## 🧹 1. Data Cleaning & Preparation (Excel)
+
+All initial data cleaning was performed in **Microsoft Excel**.
+* Multiple related tables such as(changed names)
 
   * orders_data
   * order_reviews
@@ -32,12 +39,6 @@ The project demonstrates the complete analytics workflow:
   * customers_data
   * order_items
   * Product Category Translation
-
----
-
-## 🧹 1. Data Cleaning & Preparation (Excel)
-
-All initial data cleaning was performed in **Microsoft Excel**.
 
 ### ✔ Steps Performed:
 
